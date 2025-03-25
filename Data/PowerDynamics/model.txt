@@ -1,0 +1,2 @@
+The details of the PowerDynamics WEC model can be found here - https://github.com/barajale/Dynamic_wec_simulation
+
